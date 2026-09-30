@@ -1,0 +1,14 @@
+{
+  "name": "0afe4d58788a9a39",
+  "main": "0afe4d58788a9a39@1143.js",
+  "version": "1143.0.0",
+  "homepage": "https://observablehq.com/d/0afe4d58788a9a39",
+  "author": {
+    "name": "DTU",
+    "url": "https://observablehq.com/@dtu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
